@@ -29,6 +29,7 @@
 | [0784-insert-into-a-binary-search-tree](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -67,6 +69,7 @@
 | [0784-insert-into-a-binary-search-tree](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -76,6 +79,7 @@
 | [0112-path-sum](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
