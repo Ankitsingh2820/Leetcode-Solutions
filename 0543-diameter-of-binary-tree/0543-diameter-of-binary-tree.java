@@ -14,23 +14,21 @@
  * }
  */
 class Solution {
-    int diameter = 0;
-
-    public int helper(TreeNode root) {
-        if (root == null) return 0;
-
-        int left = helper(root.left);
-        int right = helper(root.right);
-
-        // update diameter at each node
-        diameter = Math.max(diameter, left + right);
-
-        // return height of subtree
-        return 1 + Math.max(left, right);
-    }
-
-    public int diameterOfBinaryTree(TreeNode root) {
+    int dia=0;
+    public int diameterOfBinaryTree(TreeNode root) 
+    {
         helper(root);
-        return diameter;
+        return dia;
+
+    }
+    private int helper(TreeNode node)
+    {
+        if(node==null) return 0;
+        int left=helper(node.left);
+        int right=helper(node.right);
+        dia=Math.max(dia,left+right);
+        return 1+Math.max(left,right);
+
+
     }
 }
