@@ -13,35 +13,47 @@
  *     }
  * }
  */
-class Solution {
-    private int preorderIndex = 0;
-    private HashMap<Integer, Integer> inorderIndexMap;
+import java.util.HashMap;
 
+class TreeNode {
+    int val;
+    TreeNode left, right;
+    TreeNode(int val) { this.val = val; }
+}
+
+class Solution {
     public TreeNode buildTree(int[] preorder, int[] inorder) {
-        // Build a hashmap to store value -> index relations for inorder
-        inorderIndexMap = new HashMap<>();
+        if (inorder == null || preorder == null || inorder.length != preorder.length)
+            return null;
+
+        HashMap<Integer, Integer> map = new HashMap<>();
+        // Build value -> index map for inorder
         for (int i = 0; i < inorder.length; i++) {
-            inorderIndexMap.put(inorder[i], i);
+            map.put(inorder[i], i);
         }
 
-        return buildSubTree(preorder, 0, inorder.length - 1);
+        return build(preorder, 0, preorder.length - 1,
+                     inorder, 0, inorder.length - 1,
+                     map);
     }
 
-    private TreeNode buildSubTree(int[] preorder, int left, int right) {
-        if (left > right) {
+    private TreeNode build(int[] preorder, int preStart, int preEnd,
+                           int[] inorder, int inStart, int inEnd,
+                           HashMap<Integer, Integer> map) {
+        if (preStart > preEnd || inStart > inEnd)
             return null;
-        }
 
-        // Get the current root value
-        int rootVal = preorder[preorderIndex++];
+        int rootVal = preorder[preStart];
         TreeNode root = new TreeNode(rootVal);
 
-        // Get the index of root in inorder to divide left and right subtree
-        int inorderIndex = inorderIndexMap.get(rootVal);
+        int index = map.get(rootVal);
+        int leftSize = index - inStart;
 
-        // Build left and right subtree recursively
-        root.left = buildSubTree(preorder, left, inorderIndex - 1);
-        root.right = buildSubTree(preorder, inorderIndex + 1, right);
+        root.left = build(preorder, preStart + 1, preStart + leftSize,
+                          inorder, inStart, index - 1, map);
+
+        root.right = build(preorder, preStart + leftSize + 1, preEnd,
+                           inorder, index + 1, inEnd, map);
 
         return root;
     }
