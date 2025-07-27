@@ -14,21 +14,19 @@
  * }
  */
 class Solution {
-    public TreeNode insertIntoBST(TreeNode root, int val) 
-    {
-        if(root==null)
-        {
-            TreeNode newnode=new TreeNode(val);
-            return newnode;
+    public TreeNode insertIntoBST(TreeNode root, int val) {
+        if (root == null) {
+            // Create and return a new node when insertion point is found
+            TreeNode newNode = new TreeNode(val);
+            return newNode;
         }
-        if(val<root.val)
-        {
-            root.left=insertIntoBST(root.left,val);
+
+        if (val < root.val) {
+            root.left = insertIntoBST(root.left, val);
+        } else {
+            root.right = insertIntoBST(root.right, val);
         }
-        else
-        {
-            root.right=insertIntoBST(root.right,val);
-        }
+
         return root;
     }
 }
