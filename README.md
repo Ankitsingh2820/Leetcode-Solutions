@@ -146,10 +146,12 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0127-word-ladder) |
+| [0349-intersection-of-two-arrays](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Array
 |  |
@@ -160,6 +162,7 @@
 | [0130-surrounded-regions](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0695-max-area-of-island](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
@@ -185,6 +188,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0349-intersection-of-two-arrays](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0450-delete-node-in-a-bst](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
@@ -232,4 +236,5 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
