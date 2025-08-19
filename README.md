@@ -162,6 +162,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0283-move-zeroes) |
@@ -202,6 +203,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Backtracking
