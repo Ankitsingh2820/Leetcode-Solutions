@@ -186,6 +186,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Design
@@ -249,6 +250,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Math
