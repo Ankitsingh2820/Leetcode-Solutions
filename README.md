@@ -257,6 +257,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -265,4 +266,16 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
