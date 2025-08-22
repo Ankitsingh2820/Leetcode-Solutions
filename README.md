@@ -167,6 +167,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
@@ -213,6 +214,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
