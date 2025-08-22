@@ -164,6 +164,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0075-sort-colors) |
@@ -260,6 +261,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0283-move-zeroes) |
