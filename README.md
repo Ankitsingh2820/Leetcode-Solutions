@@ -155,6 +155,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -164,6 +165,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0046-permutations) |
+| [0075-sort-colors](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -254,6 +256,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
