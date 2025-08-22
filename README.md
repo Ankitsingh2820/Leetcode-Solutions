@@ -183,6 +183,7 @@
 | [0695-max-area-of-island](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -263,6 +264,7 @@
 | [0125-valid-palindrome](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
@@ -290,4 +292,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
