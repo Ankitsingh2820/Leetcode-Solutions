@@ -174,6 +174,7 @@
 | [0053-maximum-subarray](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -222,6 +223,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
@@ -273,6 +275,7 @@
 | [0048-rotate-image](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
