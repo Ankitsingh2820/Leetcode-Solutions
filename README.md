@@ -195,6 +195,7 @@
 | [1036-rotting-oranges](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [2047-find-a-peak-element-ii](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
@@ -235,6 +236,7 @@
 | [0975-range-sum-of-bst](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0975-range-sum-of-bst) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [2047-find-a-peak-element-ii](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/2047-find-a-peak-element-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -276,6 +278,7 @@
 | [0695-max-area-of-island](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
+| [2047-find-a-peak-element-ii](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/2047-find-a-peak-element-ii) |
 ## Topological Sort
 |  |
 | ------- |
