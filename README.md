@@ -215,6 +215,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0098-validate-binary-search-tree](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
@@ -285,6 +286,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 ## Prefix Sum
