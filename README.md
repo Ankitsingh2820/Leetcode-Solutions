@@ -166,6 +166,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0046-permutations) |
@@ -198,6 +199,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -216,6 +218,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0098-validate-binary-search-tree](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
