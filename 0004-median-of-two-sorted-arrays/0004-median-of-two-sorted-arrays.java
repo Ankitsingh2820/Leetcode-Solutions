@@ -8,8 +8,8 @@ class Solution {
         int left = 0, right = m;
 
         while (left <= right) {
-            int i = (left + right) / 2;           // cut in nums1
-            int j = (m + n + 1) / 2 - i;          // cut in nums2
+            int i = (left + right) / 2;           
+            int j = (m + n + 1) / 2 - i;         
 
             int maxLeft1 = (i == 0) ? Integer.MIN_VALUE : nums1[i - 1];
             int minRight1 = (i == m) ? Integer.MAX_VALUE : nums1[i];
