@@ -1,31 +1,38 @@
 class Solution {
     public int minEatingSpeed(int[] piles, int h) {
-        int left = 1, right = 0;
-        for (int pile : piles) {
-            right = Math.max(right, pile); // maximum pile
+        int low=1;
+        int high=0;
+        int n=piles.length;
+        for(int pile:piles)
+        {
+            high=Math.max(pile,high);
         }
+        int ans=high;
+        while(low<=high)
+        {
+            int mid=low+(high-low)/2;
+            if(poss( piles, h, mid))
+            {
+                ans=mid;
+                high=mid-1;
 
-        int ans = right;
-        while (left <= right) {
-            int mid = left + (right - left) / 2;
-
-            if (canEat(piles, h, mid)) {
-                ans = mid;       // possible answer
-                right = mid - 1; // try smaller speed
-            } else {
-                left = mid + 1;  // need bigger speed
+            }
+            else
+            {
+                low=mid+1;
             }
         }
         return ans;
+        
     }
-
-    // Check if Koko can finish in h hours with speed k
-    private boolean canEat(int[] piles, int h, int k) {
-        long hours = 0;
-        for (int pile : piles) {
-            hours += (pile + k - 1) / k;  // ceil(pile/k)
-            if (hours > h) return false; // no need to continue
+    private boolean poss(int[] piles, int h,int k)
+    {
+        int hours=0;
+        for(int pile:piles)
+        {
+            hours+=(pile+k-1)/k;
+            if(hours>h) return false;
         }
-        return hours <= h;
+        return true;
     }
 }
