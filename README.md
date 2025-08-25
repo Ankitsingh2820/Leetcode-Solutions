@@ -153,6 +153,7 @@
 | [0169-majority-element](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0451-sort-characters-by-frequency](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Sorting
@@ -162,6 +163,7 @@
 | [0169-majority-element](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0451-sort-characters-by-frequency](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Array
 |  |
@@ -223,6 +225,7 @@
 | [0127-word-ladder](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0451-sort-characters-by-frequency](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 ## Design
@@ -330,6 +333,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -362,4 +366,12 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0812-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
