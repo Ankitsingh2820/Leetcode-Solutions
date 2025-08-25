@@ -157,6 +157,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -231,6 +232,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Design
 |  |
 | ------- |
@@ -339,6 +341,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
