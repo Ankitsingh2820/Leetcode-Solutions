@@ -223,6 +223,7 @@
 | [0127-word-ladder](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0812-rotate-string](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 ## Design
 |  |
@@ -357,4 +358,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
