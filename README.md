@@ -7,6 +7,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [1078-remove-outermost-parentheses](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -219,6 +220,7 @@
 | [0125-valid-palindrome](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1078-remove-outermost-parentheses](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 ## Design
 |  |
 | ------- |
