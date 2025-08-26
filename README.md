@@ -279,6 +279,7 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0206-reverse-linked-list](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 ## Union Find
 |  |
 | ------- |
@@ -353,6 +354,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
