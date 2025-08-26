@@ -281,6 +281,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
@@ -341,6 +342,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0069-sqrtx) |
@@ -368,6 +370,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 ## Memoization
