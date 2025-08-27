@@ -355,6 +355,7 @@
 | [0069-sqrtx](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/2050-count-good-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -382,6 +383,7 @@
 | [0050-powx-n](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/2050-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
