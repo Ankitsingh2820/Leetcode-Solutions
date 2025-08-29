@@ -8,6 +8,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Tree
 |  |
 | ------- |
@@ -237,6 +238,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Design
 |  |
