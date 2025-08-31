@@ -137,6 +137,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0733-flood-fill) |
+| [0833-bus-routes](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0833-bus-routes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
@@ -161,6 +162,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0833-bus-routes](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0833-bus-routes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Sorting
@@ -206,6 +208,7 @@
 | [0695-max-area-of-island](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0792-binary-search) |
+| [0833-bus-routes](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0833-bus-routes) |
 | [0907-koko-eating-bananas](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ankitsingh2820/Leetcode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
